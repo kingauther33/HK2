@@ -1,0 +1,7 @@
+D:\Documents\HK2\C#\Lab01\Test2\bin\Debug\Test2.exe.config
+D:\Documents\HK2\C#\Lab01\Test2\bin\Debug\Test2.exe
+D:\Documents\HK2\C#\Lab01\Test2\bin\Debug\Test2.pdb
+D:\Documents\HK2\C#\Lab01\Test2\obj\Debug\Test2.csprojAssemblyReference.cache
+D:\Documents\HK2\C#\Lab01\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+D:\Documents\HK2\C#\Lab01\Test2\obj\Debug\Test2.exe
+D:\Documents\HK2\C#\Lab01\Test2\obj\Debug\Test2.pdb

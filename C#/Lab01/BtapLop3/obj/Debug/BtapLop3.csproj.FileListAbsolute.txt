@@ -1,0 +1,2 @@
+D:\Documents\HK2\C#\Lab01\BtapLop3\obj\Debug\BtapLop3.csprojAssemblyReference.cache
+D:\Documents\HK2\C#\Lab01\BtapLop3\obj\Debug\BtapLop3.csproj.CoreCompileInputs.cache

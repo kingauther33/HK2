@@ -1,0 +1,6 @@
+D:\Documents\HK2\C#\Demo\Demo\ImplicityTypeAndAnonymous\bin\Debug\ImplicityTypeAndAnonymous.exe.config
+D:\Documents\HK2\C#\Demo\Demo\ImplicityTypeAndAnonymous\bin\Debug\ImplicityTypeAndAnonymous.exe
+D:\Documents\HK2\C#\Demo\Demo\ImplicityTypeAndAnonymous\bin\Debug\ImplicityTypeAndAnonymous.pdb
+D:\Documents\HK2\C#\Demo\Demo\ImplicityTypeAndAnonymous\obj\Debug\ImplicityTypeAndAnonymous.csproj.CoreCompileInputs.cache
+D:\Documents\HK2\C#\Demo\Demo\ImplicityTypeAndAnonymous\obj\Debug\ImplicityTypeAndAnonymous.exe
+D:\Documents\HK2\C#\Demo\Demo\ImplicityTypeAndAnonymous\obj\Debug\ImplicityTypeAndAnonymous.pdb

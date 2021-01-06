@@ -1,0 +1,7 @@
+D:\Documents\HK2\C#\Lab01\Lab01\bin\Debug\Lab01.exe.config
+D:\Documents\HK2\C#\Lab01\Lab01\bin\Debug\Lab01.exe
+D:\Documents\HK2\C#\Lab01\Lab01\bin\Debug\Lab01.pdb
+D:\Documents\HK2\C#\Lab01\Lab01\obj\Debug\TestTrenLop.csprojAssemblyReference.cache
+D:\Documents\HK2\C#\Lab01\Lab01\obj\Debug\TestTrenLop.csproj.CoreCompileInputs.cache
+D:\Documents\HK2\C#\Lab01\Lab01\obj\Debug\Lab01.exe
+D:\Documents\HK2\C#\Lab01\Lab01\obj\Debug\Lab01.pdb

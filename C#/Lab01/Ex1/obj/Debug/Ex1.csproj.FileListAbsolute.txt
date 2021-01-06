@@ -1,0 +1,6 @@
+D:\Documents\HK2\C#\Lab01\Ex1\bin\Debug\Ex1.exe.config
+D:\Documents\HK2\C#\Lab01\Ex1\bin\Debug\Ex1.exe
+D:\Documents\HK2\C#\Lab01\Ex1\bin\Debug\Ex1.pdb
+D:\Documents\HK2\C#\Lab01\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+D:\Documents\HK2\C#\Lab01\Ex1\obj\Debug\Ex1.exe
+D:\Documents\HK2\C#\Lab01\Ex1\obj\Debug\Ex1.pdb
