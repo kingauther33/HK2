@@ -1,0 +1,7 @@
+D:\Documents\HK2\C#\Lab05\TestNewAndOverRide\bin\Debug\TestNewAndOverRide.exe.config
+D:\Documents\HK2\C#\Lab05\TestNewAndOverRide\bin\Debug\TestNewAndOverRide.exe
+D:\Documents\HK2\C#\Lab05\TestNewAndOverRide\bin\Debug\TestNewAndOverRide.pdb
+D:\Documents\HK2\C#\Lab05\TestNewAndOverRide\obj\Debug\TestNewAndOverRide.csprojAssemblyReference.cache
+D:\Documents\HK2\C#\Lab05\TestNewAndOverRide\obj\Debug\TestNewAndOverRide.csproj.CoreCompileInputs.cache
+D:\Documents\HK2\C#\Lab05\TestNewAndOverRide\obj\Debug\TestNewAndOverRide.exe
+D:\Documents\HK2\C#\Lab05\TestNewAndOverRide\obj\Debug\TestNewAndOverRide.pdb

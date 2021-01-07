@@ -1,0 +1,6 @@
+D:\Documents\HK2\C#\Lab05\TestTrenLop4\bin\Debug\TestTrenLop4.exe.config
+D:\Documents\HK2\C#\Lab05\TestTrenLop4\bin\Debug\TestTrenLop4.exe
+D:\Documents\HK2\C#\Lab05\TestTrenLop4\bin\Debug\TestTrenLop4.pdb
+D:\Documents\HK2\C#\Lab05\TestTrenLop4\obj\Debug\TestTrenLop4.csproj.CoreCompileInputs.cache
+D:\Documents\HK2\C#\Lab05\TestTrenLop4\obj\Debug\TestTrenLop4.exe
+D:\Documents\HK2\C#\Lab05\TestTrenLop4\obj\Debug\TestTrenLop4.pdb

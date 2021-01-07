@@ -1,0 +1,7 @@
+D:\Documents\HK2\C#\Lab05\TestTrenLop2\bin\Debug\TestTrenLop2.exe.config
+D:\Documents\HK2\C#\Lab05\TestTrenLop2\bin\Debug\TestTrenLop2.exe
+D:\Documents\HK2\C#\Lab05\TestTrenLop2\bin\Debug\TestTrenLop2.pdb
+D:\Documents\HK2\C#\Lab05\TestTrenLop2\obj\Debug\TestTrenLop2.csprojAssemblyReference.cache
+D:\Documents\HK2\C#\Lab05\TestTrenLop2\obj\Debug\TestTrenLop2.csproj.CoreCompileInputs.cache
+D:\Documents\HK2\C#\Lab05\TestTrenLop2\obj\Debug\TestTrenLop2.exe
+D:\Documents\HK2\C#\Lab05\TestTrenLop2\obj\Debug\TestTrenLop2.pdb
