@@ -1,0 +1,7 @@
+D:\Documents\HK2\C#\Lab05\Ss7-Ex1\bin\Debug\Ss7-Ex1.exe.config
+D:\Documents\HK2\C#\Lab05\Ss7-Ex1\bin\Debug\Ss7-Ex1.exe
+D:\Documents\HK2\C#\Lab05\Ss7-Ex1\bin\Debug\Ss7-Ex1.pdb
+D:\Documents\HK2\C#\Lab05\Ss7-Ex1\obj\Debug\Ss7-Ex1.csprojAssemblyReference.cache
+D:\Documents\HK2\C#\Lab05\Ss7-Ex1\obj\Debug\Ss7-Ex1.csproj.CoreCompileInputs.cache
+D:\Documents\HK2\C#\Lab05\Ss7-Ex1\obj\Debug\Ss7-Ex1.exe
+D:\Documents\HK2\C#\Lab05\Ss7-Ex1\obj\Debug\Ss7-Ex1.pdb
