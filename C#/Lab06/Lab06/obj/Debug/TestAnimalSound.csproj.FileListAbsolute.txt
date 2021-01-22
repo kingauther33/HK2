@@ -1,0 +1,7 @@
+D:\Documents\HK2\C#\Lab06\Lab06\bin\Debug\Lab06.exe.config
+D:\Documents\HK2\C#\Lab06\Lab06\bin\Debug\Lab06.exe
+D:\Documents\HK2\C#\Lab06\Lab06\bin\Debug\Lab06.pdb
+D:\Documents\HK2\C#\Lab06\Lab06\obj\Debug\TestAnimalSound.csprojAssemblyReference.cache
+D:\Documents\HK2\C#\Lab06\Lab06\obj\Debug\TestAnimalSound.csproj.CoreCompileInputs.cache
+D:\Documents\HK2\C#\Lab06\Lab06\obj\Debug\Lab06.exe
+D:\Documents\HK2\C#\Lab06\Lab06\obj\Debug\Lab06.pdb

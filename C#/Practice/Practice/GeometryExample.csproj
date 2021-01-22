@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DA197C67-E637-4954-9EE3-EEA9D3027A4D}</ProjectGuid>
+    <ProjectGuid>{0C154A71-F123-49EB-A5CF-6F1038265E5F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ss7_Ex1Chua</RootNamespace>
-    <AssemblyName>Ss7-Ex1Chua</AssemblyName>
+    <RootNamespace>Practice</RootNamespace>
+    <AssemblyName>Practice</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,13 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Expired.cs" />
-    <Compile Include="Control.cs" />
-    <Compile Include="Health.cs" />
-    <Compile Include="Military.cs" />
-    <Compile Include="Personnel.cs" />
-    <Compile Include="Retirees.cs" />
-    <Compile Include="Troops.cs" />
+    <Compile Include="Cylinder.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

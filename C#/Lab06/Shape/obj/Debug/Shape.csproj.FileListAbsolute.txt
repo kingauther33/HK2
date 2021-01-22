@@ -1,0 +1,7 @@
+D:\Documents\HK2\C#\Lab06\Shape\bin\Debug\Shape.exe.config
+D:\Documents\HK2\C#\Lab06\Shape\bin\Debug\Shape.exe
+D:\Documents\HK2\C#\Lab06\Shape\bin\Debug\Shape.pdb
+D:\Documents\HK2\C#\Lab06\Shape\obj\Debug\Shape.csprojAssemblyReference.cache
+D:\Documents\HK2\C#\Lab06\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+D:\Documents\HK2\C#\Lab06\Shape\obj\Debug\Shape.exe
+D:\Documents\HK2\C#\Lab06\Shape\obj\Debug\Shape.pdb
