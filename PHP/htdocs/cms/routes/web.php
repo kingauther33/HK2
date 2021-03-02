@@ -4,6 +4,9 @@ use Illuminate\Support\Facades\Redirect;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\AboutController;
+use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\LayoutController;
+use Illuminate\Support\Facades\DB;
 
 /*
 |--------------------------------------------------------------------------
@@ -20,8 +23,12 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('layout', [LayoutController::class, 'showLayout']);
+
 Route::get('home', [HomeController::class, 'showWelcome']);
 //Route::get('/', 'App\Http\Controllers\HomeController@showWelcome');
+
+Route::get('profile/{name?}', [ProfileController::class, 'showProfile']);
 
 /*  Solution:
     https://laracasts.com/discuss/channels/laravel/laravel8-ui-bootstrap-uiauth-error-target-class-homecontroller-does-not-exist
@@ -29,7 +36,7 @@ Route::get('home', [HomeController::class, 'showWelcome']);
 
 Route::get('about', [AboutController::class, 'showAbout']);
 
-Route::get('about/directions',array('as' => 'directions', function() {
+Route::get('about/directions', array('as' => 'directions', function () {
 //    $theURL = URL::route('directions');
     return 'Directions go here';
 }));
@@ -46,9 +53,48 @@ Route::any('submit-form', function () {
 
 //Btap Art va Price
 Route::get('{price}/{art}', function ($price, $art) {
-    return 'Price is: ' . $price .'<br>Art is: ' . $art;
+    return 'Price is: ' . $price . '<br>Art is: ' . $art;
 });
 
-Route::get('where',function () {
+Route::get('where', function () {
     return Redirect::route('directions');
 });
+
+Route::get('insert', function () {
+    DB::INSERT('insert into posts(title, body, is_admin) values(?,?,?)', ['PHP with Laravel', 'I love You 123123', 0]);
+    return 'DONE!!';
+});
+
+Route::get('/read', function () {
+    $result = DB::select('select * from posts where id < ?', [10]);
+//    return $result;
+    $titles = DB::table('posts')->pluck('title');
+    $posts = DB::table('posts')->get();
+
+    foreach ($result as $post) {
+        echo $post->body . '<br>';
+    }
+
+    foreach ($titles as $title) {
+        echo $title;
+    }
+
+    foreach ($posts as $post) {
+        echo $post->body;
+    }
+});
+
+Route::get('/update', function () {
+    return DB::table("posts")
+        ->where('id', 3)
+        ->update(['title' => 'I want to RUN !!!']);
+});
+
+Route::get ('/delete', function() {
+    return DB::table("posts")
+        ->where('id', 4)
+        ->delete();
+});
+
+
+
