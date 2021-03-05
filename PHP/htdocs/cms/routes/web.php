@@ -7,6 +7,9 @@ use App\Http\Controllers\AboutController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\LayoutController;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Database\Eloquent\Model;
+use App\Models\Posts;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -90,11 +93,54 @@ Route::get('/update', function () {
         ->update(['title' => 'I want to RUN !!!']);
 });
 
-Route::get ('/delete', function() {
+Route::get('/delete', function () {
     return DB::table("posts")
         ->where('id', 4)
         ->delete();
 });
 
+// Task 10
+Route::get('readAll', function () {
+    $posts = Posts::all();
+    foreach ($posts as $post) {
+        echo $post->title . '<br>';
+    }
+});
 
+Route::get('findId', function () {
+    $posts = Posts::where('id', '>=', 1)
+        ->where('title', 'PHP with Laravel')
+        ->where('body', 'like', '%123123%')
+        ->orderBy('id', 'desc')
+        ->take(10)
+        ->get();
+    foreach ($posts as $post) {
+        echo $post->title . '<br>';
+    }
+
+});
+
+Route::get('insertORM', function () {
+    $post = new Posts();
+    $post->title = 'Tarzan';
+    $post->body = 'I\'m the Tarzan';
+    $post->is_admin = 1;
+    $post->save();
+});
+
+Route::get('updateORM', function () {
+    $post = Posts::where('id', 4)->first();
+    $post->title = 'updated ORM';
+    $post->body = 'updated all DONE';
+    $post->save();
+});
+
+Route::get('deleteORM', function () {
+    Posts::where('id', '>=', 5)
+        ->delete();
+});
+
+Route::get('destroyORM', function () {
+    Posts::destroy([7,5]);
+});
 
